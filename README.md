@@ -9,4 +9,4 @@ trasnformation between operational space parameters and the joint space
 paramenters. We also needed to analyze that transformation to determine
 its inverse kinematics. Lastly, we needed to implement the inverse
 kinematics and use our implementation to simulate the sample mission of
-robot.
+robot. Contributers to the code are me and Sumedh Vijay.
